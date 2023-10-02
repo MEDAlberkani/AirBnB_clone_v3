@@ -153,9 +153,6 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Aisha Khalifan - [Github](https://github.com/AishaKhalfan) / [Twitter](https://twitter.com/_aishakhalfan)  
-Myra Jarenga - [Github](https://github.com/myrajarenga) / [Twitter](https://twitter.com/myrajarenga)
 
 Second part of Airbnb: Joann Vuong
 ## License
